@@ -1,2 +1,1 @@
-# Jumpy
-This is the Jumpity Jump game.
+# Jump
